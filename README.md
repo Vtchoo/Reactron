@@ -18,4 +18,4 @@ In order to run the application on browser, the command is still the default `np
 
 ### On a Electron executable
 
-//TODO: Implement the Electron debug build using `concurrently` and `wait-on`
+The command to run the debug React server on the electron executable is `npm run dev`. It starts the React server and when ready, opens `localhost:3000` on the Electron exe. No browser opens when starting React server (option BROWSER=none in .env).
