@@ -8,7 +8,7 @@ Reactron is a simple template for generating standalone desktop applications run
 
 First, just `npm install` to import and install the needed packages.
 
-To create the executable application, just run `npm run make`. This will build the React application to the folder `/build` first and then pack it to the Electron executable.
+To create the executable application, just run `npm run make`. This will build the React application to the folder `/build` first and then pack it to the Electron executable, which will be built in the folder `/out`.
 
 ## Debugging
 
