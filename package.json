@@ -28,7 +28,7 @@
     "eject": "npx react-scripts eject",
     "package": "npx react-scripts build && electron-forge package",
     "make": "npx react-scripts build && electron-forge make",
-    "dev": "concurrently -k \"BROWSER=none npm start\" \"npm:electron\"",
+    "dev": "concurrently -k \"npm start\" \"npm:electron\"",
     "electron": "wait-on tcp:3000 && electron ."
   },
   "eslintConfig": {
