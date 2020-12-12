@@ -2,7 +2,7 @@
 
 ## What this project is
 
-Reactron is a simple template for generating standalone desktop applications running a React web app. This template is intended for my own personal use, but there's no restrictions on this, so anyone can clone/fork it.
+Reactron is a simple template for generating standalone desktop applications running a React web app. This template is intended for my own personal use, but there's no restrictions on this, so anyone can clone/fork and use it.
 
 ## How to build the application
 
